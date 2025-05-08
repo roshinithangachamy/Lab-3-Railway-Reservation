@@ -1,5 +1,5 @@
 # Lab-3-Railway-Reservation
-
+### DATE: 27/03/2025
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,7 +18,22 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+### NAME: T.Roshini
+### REG NUM: 212223230175
+#### USE CASE:
+![image](https://github.com/user-attachments/assets/8f822e29-563e-4258-8a09-0b0b41cbd7e5)
 
+#### CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/53bcbd67-a562-4fd6-8d65-4393557ee105)
+
+#### COLLABORATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/770ddaee-60ba-4880-bd5a-b1b3f08f9666)
+
+#### ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/fda62a8c-b078-459e-b0c8-dfdf1ae9fdf2)
+
+#### PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/ac0dab85-b69f-479e-8c96-b7e75ce5119a)
 
 
 ### RESULT:
